@@ -1,0 +1,12 @@
+---
+title: "Chapitre 3 - Géotraitement"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Téléchargez les données pour le Chapitre 3 du Tutoriel SIG IAMM  [☞ 💾](https://cloudia.iamm.fr/index.php/s/39JV4t1kjpURWYb/download)

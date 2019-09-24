@@ -1,0 +1,54 @@
+---
+title: "Données et outils complémentaires pour l'évaluation"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Téléchargez les données préparées par l'équipe de l'IAMM [☞ 💾](https://cloudia.iamm.fr/index.php/s/qQHvC9v8orErlYB/download)
+
+## Données complémentaires
+
+### Banques de données (vecteur)
+
+- [**GADM**](https://www.gadm.org/download_country_v3.html) : limites administratives accessibles par pays
+
+- [**Diva-GIS**](http://www.diva-gis.org/gdata) : site du logiciel SIG libre DIVA où sont aussi disponibles des données vecteur gratuites sur les limites administratives, l'hydrographie, le transport, la population... classées par pays 
+
+- [**Géoportail**](http://geoportail.gouv.fr) : plateforme nationale de diffusion des données qui s’appuie sur les référentiels de l’IGN et sur des producteurs de données institutionnels (territoire français uniquement).
+
+- [**OpenStreetMap**](http://download.geofabrik.de/openstreetmap/) :  base de données géographiques libre du monde. Possibilité d'extraire les données au format SHP via Geofabrik
+
+
+### Occupation du sol (raster)
+
+- [**Corine**](https://land.copernicus.eu/pan-european/corine-land-cover) : programme européen de surveillance de la Terre ayant pour but principal la gestion de l’information et des actions en environnement avec l’UE. Il cartographie notamment la répartition des différents modes d'occupation des sols (Corine Land Cover) avec cinq versions à ce jour  (1990, 2000, 2006, 2012 et 2018).
+
+- [**USGS**](https://earthexplorer.usgs.gov) : plateforme de l'USGS (États-Unis) qui permet de visualiser et de télécharger différentes bases de données de l'USGS et de la NASA, comme notamment les images satellitaires MODIS et LANDSAT ainsi que leurs produits dérivés. 
+
+### Modèles d'élévation (raster)
+
+- [**SRTM**](http://dwtkns.com/srtm/) : données mondiales du Shuttle Radar topography Mission avec une résolution de 90m à l'équateur
+- [**ASTER**](http://asterweb.jpl.nasa.gov/gdem.asp) : version plus récente et complémentaire au SRTM avec une résolution de 30m à l'équateur
+
+### Démographie (raster)
+- [**WorldPop**](https://www.worldpop.org) : données mondiales et nationales de population, démographie et indicateurs de développement
+
+### Annuaires de données
+
+- [**Free GIS Data**](https://freegisdata.rtwilson.com) : un annuaire très complet d'un ancien collègue de l'University of Southampton qui regroupe des liens vers de multiples catégories de bases de données
+
+- [**Natural Earth**](http://www.naturalearthdata.com/downloads/) : données à l'échelle mondiale, notamment limites administratives, hydrographie, bathymétrie ou encore des fonds de carte raster
+
+- [**Georezo**](http://georezo.net/annuaire/donnees-c-4.html) : le portail francophone de la géomatique 
+
+- [**Geonetwork**](http://www.fao.org/geonetwork/) : catalogue FAO de métadonnées donnant accès à un large éventail de données vecteur ou raster, en particulier sur les pays du Sud. 
+
+
+## Outils complémentaires
+
+- [**Map Comparison Kit**](http://mck.riks.nl) : un logiciel très utile pour comparer deux cartes raster et donc comprendre les dynamiques (notamment d'occupation des sols). Merci de me contacter si vous souhaitez utiliser cet outil.
