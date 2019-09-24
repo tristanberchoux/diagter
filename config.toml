@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Diagnostic territorial"
+title = "I3PGAT1019A"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [author]
   name = "Tristan Berchoux"
   bio = ""
-  job = "Scientific Administrator"
+  job = "Enseignant-Chercheur"
   location = "CIHEAM"
   gravatarEmail = "berchoux@iamm.fr"
   # Your profile picture
@@ -33,7 +33,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "Accueil"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 #[[menu.main]]

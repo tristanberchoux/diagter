@@ -1,0 +1,16 @@
+---
+title: "Introduction à l’analyse spatiale"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Suivez-le chapitre 3 "Géotraitement" du [Tutoriel SIG IAMM](https://bookdown.org/tristan_berchoux/tutorielsig/geoprocess.html).
+
+N'hésitez pas à me faire signe si vous avez besoin d'aide.
+Si vous n'avez pas besoin d'aide, appelez-moi quand même pour me montrer vos résultats.
+Pensez à sauvegarder vos projets et à prendre des notes. Ce que vous faites pendant les TD sont des éléments clés pour votre évaluation.

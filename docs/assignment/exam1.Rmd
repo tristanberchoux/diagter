@@ -1,0 +1,12 @@
+---
+title: "Introduction à l’analyse spatiale"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Suivez-le chapitre 3 "Géotraitement" du [Tutoriel SIG IAMM](https://bookdown.org/tristan_berchoux/tutorielsig/geoprocess.html)

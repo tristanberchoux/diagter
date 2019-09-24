@@ -1,0 +1,52 @@
+---
+title: "Évaluation"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Production d'un dossier cartographique de pré-diagnostic d'une zone rurale.**
+
+Par groupes de cinq, vous constituerez un dossier composé de cartes thématiques et accompagné d'un commentaire. Celui-ci visera à décrypter un thème spécifique de la `complexité du territoire` et proposera une perspective thématique sur les `dynamiques rurales et agricoles`.
+Vous devrez aussi présenter vos travaux de synthèse lors d'une restitution orale de 10 minutes qui sera suivie par 5 minutes de questions.
+
+Vous traiterez au choix l'un des thèmes suivants par groupe de 5 avec un maximum de 2 groupes par thème. Des exemples de sous-thèmes à traiter au sein de chaque thème (non exhaustif) vous sont aussi présentés en arborescence :
+
+- **Paysage**
+  - Climat
+  - Géologie/pédologie
+  - Ressources naturelles (eau, forêts)
+  - Dynamiques
+
+- **Occupation du sol**
+  - Agriculture et élevage
+  - Forêts
+  - Urbain
+  - Dynamiques
+
+- **Emploi et économie**
+  - Taux de chômage
+  - Secteurs d’emploi
+  - Commerces et marchés
+  - Dynamiques
+
+- **Démographie et services**
+  - Population
+  - Structure
+  - Services publics
+  - Dynamiques
+
+- **Catastrophes naturelles**
+  - Arrêtés et évolution
+  - Inondations (lit majeur rivières)
+  - Sensibilité aux feux de forêt
+  
+Pour construire votre dossier, vous pouvez vous appuyer sur des jeux de données SIG déjà recueillis (à télécharger sur le site `diagter > Syllabus > Partie 4 > Données`) mais aussi sur des données issues de vos propres recherches (voir [Chapitre 5 "Données" du Tutoriel SIG IAMM](https://bookdown.org/tristan_berchoux/tutorielsig/biblio.html#donnees)).
+Vous penserez à mobiliser les données tabulaires du module d'Analyse de Données dans vos cartes grâce à l'outil de `Jointure`.
+Enfin, vous avez aussi à votre disposition deux cartes IGN du territoire qui peuvent vous être utiles pour votre analyse (à demander à vos enseignants).
+
+Il est important de noter que nous attendons ici un travail d'**analyse critique** et de **commentaire**, pas seulement une analyse descriptive.
