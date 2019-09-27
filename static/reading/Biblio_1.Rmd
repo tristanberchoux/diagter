@@ -1,0 +1,77 @@
+---
+title: "Géographie des territoires"
+subtitle : "Ressources pédagogiques"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 📚 Ouvrages
+
+### Géographie rurale
+
+- [**Géographie rurale : la ruralité en France**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=38484) <br>
+**Jean Y., Périgord M. (2017)** <br>
+2 ed. Paris (France) : Armand Colin. 127 p. (128 Tout le Savoir).
+
+- [**Les territoires ruraux en France**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=36262) <br>
+**Bouron J.-B., Georges P.-M. (2015)** <br>
+Paris (France) : Ellipses. 455 p. 
+
+- [**Introduction à l'analyse des territoires : concepts, outils, applications**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=38533) <br>
+**Goeury D., Sierra P. (2016)** <br>
+Paris (France) : Armand Colin. 220 p.
+
+### Analyse paysagère
+
+- [**Comprendre un paysage : guide pratique de recherche**](https://www.quae.com/produit/375/9782759211586/comprendre-un-paysage) <br>
+**Lizet B., de Ravignan F. (1987)** <br>
+Quae. Inra (Espaces ruraux). 147 p.
+
+- [**Petit guide de l'observation du paysage**](https://www.quae.com/produit/1597/9782759230648/petit-guide-de-l-observation-du-paysage) <br>
+**Deffontaines J.-P., Ritter J., Deffontaines B., Michaud D. (2019)** <br>
+Editions Quae. 36 p.
+
+- [**Paysage et agriculture : pour le meilleur !**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=36267) <br>
+**Ambroise R., Toublanc M. (2015)** <br>
+Dijon (France) : Educagri. 139 p.
+
+- [**Géographie des espaces ruraux**](https://www.armand-colin.com/geographie-des-espaces-ruraux-9782200618599) <br>
+**Gonin A., Quéva C. (2018)** <br>
+Paris (France) : Armand Colin. 272 p. (Cursus)
+
+### Commentaire de carte
+- [**Le commentaire de carte topographique : méthodes et applications**](https://m.armand-colin.com/le-commentaire-de-carte-topographique-methodes-et-applications-9782200617035) <br>
+**Tiano C., Loïzzo C. (2017)** <br>
+Paris (France) : Armand Colin. 240 p. (Cursus)
+
+- [**Analyser les territoires : savoirs et outils**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=22612) <br>
+**Mérenne-Schoumaker B. (2002)** <br>
+Rennes (France) : Presses Universitaires de Rennes. 166 p. (Didact Géographie). 
+
+
+## 📄 Articles scientifiques
+- [**Putting people in the map: anthropogenic biomes of the world**](http://ecotope.org/people/ellis/papers/ellis_2008.pdf) <br>
+**Ellis E.C., Ramankutty N. (2008)** <br>
+Frontiers in Ecology and the Environment 6.8 (2008): 439-447.
+
+- [**Anthropogenic transformation of the biomes, 1700 to 2000**](http://ecotope.org/people/ellis/papers/ellis_2010.pdf) <br>
+**Ellis E.C., Goldewijk K.K., Siebert S., Lightman D., Ramankutty N. (2010)** <br>
+Global ecology and biogeography, 19(5), pp.589-606.
+
+- [**De la géographie rurale à l'analyse des paysages : le témoignage d'un chercheur**](https://www.cairn.info/revue-l-information-geographique-2009-1-page-17.htm) <br>
+**Juin-Rialland C. (2009)** <br>
+L'Information géographique 2009/1 (Vol. 73), pages 17 à 29
+
+- [**Ten principles for a landscape approach to reconciling agriculture, conservation, and other competing land uses**](https://www.pnas.org/content/pnas/110/21/8349.full.pdf) <br>
+**Sayer J., _et al._ (2013)** <br>
+PNAS, 110(21), pp. 8349–8356
+
+## 💻 Webographie
+- [Apprends moi le paysage](http://www.apprends-moi-le-paysage.fr)
+- [Agriculture et Paysage](http://www.agriculture-et-paysage.fr)
+- [Global Landscapes Forum](https://www.globallandscapesforum.org/about/what-is-the-landscape-approach/)

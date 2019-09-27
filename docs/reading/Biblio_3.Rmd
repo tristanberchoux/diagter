@@ -1,0 +1,48 @@
+---
+title: "Élaboration de cartes thématiques"
+subtitle : "Ressources pédagogiques"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 📚 Ouvrages
+
+- [**Savoir faire une carte : aide à la conception et à la réalisation d'une carte thématique univariée**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=28418) <br>
+**Zanin** C., **Trémélo** M.-L. **(2003)** <br>
+Paris (France) : Belin. 200 p. (Belin Sup Géographie)
+
+- [**Utilisation des nouvelles technologies et gestion participative de l'espace rural méditerranéen : télédétection et SIG au service du diagnostic territorial, élaboration d'une méthode et d'outils**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=23844) <br>
+**Goussios** D., **Faraslis** G., **Vallerand** F. **(2007)** <br>
+Montpellier (France) : CIHEAM-IAMM. 88 p. (FORMder)
+
+## 📑 Actes de congrès
+
+- [**Les SIG au service du développement territorial**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=32173) <br>
+**Walser** O. **_et al._ (2011)** <br>
+Lausanne (Suisse) : Presses Polytechniques et Universitaires Romandes. 318 p.
+
+## 📄 Articles scientifiques
+
+- [**GIS and rural electricity planning in Uganda**](https://www.sciencedirect.com/science/article/pii/S0959652606001223) <br>
+**Kaijuka** E. **(2007)** <br>
+Journal of Cleaner Production. Volume 15, Issue 2, Pages 203-217.
+
+- [**Planning sustainable land use in rural areas at different spatial levels using GIS and modelling tools**](https://www.sciencedirect.com/science/article/pii/S016920469900050X) <br>
+**Herrmann** S., **Osinski** E. (1999) <br>
+Landscape and Urban Planning. Volume 46, Issues 1–3, Pages 93-101.
+
+- [**Socioecologically informed use of remote sensing data to predict rural household poverty**](https://www.pnas.org/content/116/4/1213) <br>
+**Watmough** G.R. **_et al._ (2019)** <br>
+PNAS. 116 (4) 1213-1218.
+
+## 💻 Webographie
+- [FAO](http://www.fao.org/geospatial/en/)
+- [UN](https://www.un.org/Depts/Cartographic/english/htmain.htm)
+- [GISCafé](www.giscafe.com)
+- [National Geographic](https://www.nationalgeographic.com/maps/)
+- [Le Monde en cartes](https://twitter.com/lm_encartes?lang=fr)

@@ -1,0 +1,58 @@
+---
+title: "Manipulation de l'information géographique"
+subtitle : "Ressources pédagogiques"
+output: 
+  html_document: 
+    theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 📚 Ouvrages
+
+### Cartographie 
+
+- [**Manuel de cartographie : principes, méthodes, applications**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=37163) <br>
+**Lambert** N., **Zanin** C. **(2016)** <br>
+Paris (France) : Armand Colin. 221 p. (Cursus).
+
+- [**Pratiques de la cartographie**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=37656) <br>
+**Le Fur** A. **(2015)** <br>
+Paris (France) : Armand Colin. 128 p. (128 Tout le Savoir).
+
+- [**La représentation des données géographiques : statistique et cartographie**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=28424) <br>
+**Béguin** M., **Pumain** D. **(2009)** <br>
+2 ed. Paris (France) : Armand Colin. 192 p. (Cursus). 
+
+### Systèmes d'Information Géographique
+
+- [**Systèmes d'information géographique avec les logiciels libres GRASS et QGIS**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=39324) <br>
+**Auda** Y. **(2018)** <br>
+Paris (France) : Dunod. 197 p. (Sciences Sup. Sciences de l'Ingénieur). 
+
+- [**Analyse statistique des données spatiales**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=23585) <br>
+**Droesbeke** J.-J., **Lejeune** M., **Saporta** G. **(2006)** <br>
+Paris (France) : Technip. 408 p.
+
+- [**Données spatiales sur l'eau : technologies géospatiales et gestion des données**](https://www.iamm.ciheam.org/ress_doc/opac_css/index.php?lvl=notice_display&id=40498) <br>
+**Oulidi** H.J. **(2019)** <br>
+Londres (Royaume-Uni) : ISTE Editions. 176 p. (Ecologie)
+
+## 📄 Articles scientifiques
+- [**Assessing potential land suitable for surface irrigation using groundwater in Ethiopia**](https://www.sciencedirect.com/science/article/pii/S0143622816306269) <br>
+**Worqlul** A.W. **_et al._ (2017)** <br>
+Applied Geography. Vol. 85. pp. 1-13
+
+- [**Dynamic population mapping using mobile phone data**](https://www.pnas.org/content/111/45/15888) <br>
+**Deville** P. **_et al._ (2014)** <br>
+PNAS. 111(45) 15888-15893
+
+- [**Agricultural shocks and drivers of livelihood precariousness across Indian rural communities**](https://www.sciencedirect.com/science/article/pii/S0169204618305255) <br>
+**Berchoux** T. **_et al._ (2019)** <br>
+Landscape and Urban Planning. Vol. 189. pp. 307-319
+
+- [**Global change effects on land management in the Mediterranean region**](https://www.sciencedirect.com/science/article/abs/pii/S0959378017305046) <br>
+**Malek** Z. **_et al._ (2018)** <br>
+Global Environmental Change. Vol. 50. pp. 238-254
