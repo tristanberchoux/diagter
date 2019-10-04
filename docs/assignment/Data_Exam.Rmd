@@ -42,6 +42,8 @@ Téléchargez les données préparées par l'équipe de l'IAMM [☞ 💾](https:
 
 - [**Free GIS Data**](https://freegisdata.rtwilson.com) : un annuaire très complet d'un ancien collègue de l'University of Southampton qui regroupe des liens vers de multiples catégories de bases de données
 
+- [**Géoimage**](https://geoimage.cnes.fr) : le site Géoimage du CNES (Centre National d'Études Spatiales) propose des images satellite en haute définition en accès direct et en téléchargement libre et gratuit, accompagnées d'une notice de présentation et d'analyse.
+
 - [**Natural Earth**](http://www.naturalearthdata.com/downloads/) : données à l'échelle mondiale, notamment limites administratives, hydrographie, bathymétrie ou encore des fonds de carte raster
 
 - [**Georezo**](http://georezo.net/annuaire/donnees-c-4.html) : le portail francophone de la géomatique 

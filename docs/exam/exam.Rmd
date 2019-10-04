@@ -9,7 +9,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Production d'un dossier cartographique de pré-diagnostic d'une zone rurale.**
+**Production et présentation orale d'un dossier cartographique de pré-diagnostic d'une zone rurale.**
+
+_Le rendu écrit compte pour 75% de la note finale et la présentation orale pour 25%._
 
 Par groupes de cinq, vous constituerez un dossier composé de cartes thématiques et accompagné d'un commentaire. Celui-ci visera à décrypter un thème spécifique de la `complexité du territoire` et proposera une perspective thématique sur les `dynamiques rurales et agricoles`.
 Vous devrez aussi présenter vos travaux de synthèse lors d'une restitution orale de 10 minutes qui sera suivie par 5 minutes de questions.
